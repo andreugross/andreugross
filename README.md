@@ -40,4 +40,4 @@ Vamos conversar?
 </div>
 <hr>
 
-![snake gif dark](https://github.com/andreugross/andreugross/blob/output/github-contribution-grid-snake.svg)
+![snake gif dark](https://github.com/andreugross/andreugross/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
